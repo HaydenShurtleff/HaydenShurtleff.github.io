@@ -12,3 +12,4 @@ crick crick
 smack
 
 pam
+slam
